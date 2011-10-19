@@ -1,4 +1,4 @@
-var f = require("../src/f.js").extendNatives(),
+var f = require("../src/f.js").extendNatives(true),
 	assert = require("assert");
 
 module.exports = {

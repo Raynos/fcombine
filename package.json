@@ -1,6 +1,6 @@
 {
 	"name": "fcombine",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "function utility library",
 	"keywords": ["function", "f", "arch", "utility"],
 	"author": "Jake Verbaten <raynos2@gmail.com>",
@@ -11,6 +11,6 @@
 		"node": "0.5.x"
 	},
 	"devDependencies": {
-		"tester": "0.0.1"
+		"tester": "0.0.2"
 	}
 }
