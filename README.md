@@ -2,6 +2,8 @@
 
 A function combination utility,
 
+## Status: beta
+
 ## Blog posts <a name="Blog_posts" href="#Blog_posts"><small><sup>link</sup></small></a>
 
 Coming soon!
