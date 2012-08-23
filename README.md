@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Raynos/fcombine.png)](http://travis-ci.org/Raynos/fcombine)
 # f <a name="_f" href="#_f"><small><sup>link</sup></small></a>
 
 A function combination utility,
